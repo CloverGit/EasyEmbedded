@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.clovergit.easyembedded.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.clovergit.easyembedded.MyBundle
 
 class MyApplicationService {
 
